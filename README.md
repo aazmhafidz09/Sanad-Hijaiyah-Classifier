@@ -17,6 +17,11 @@ Aplikasi tersebut dibangun dengan bahasa pemrograman python dengan bantuan libra
 
 
 
+## Documentation
+
+[Dataset Sanad Claslifier](https://drive.google.com/drive/folders/1xBYS-lir9RpoNhs38t4AusKRorePhm38?usp=sharing)
+
+
 ## Run Locally
 
 Clone the project
@@ -28,13 +33,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
+  cd sanad-Hijaiyah-Classifier
 ```
 
 Start the server
